@@ -5,7 +5,7 @@ This repo is a simple example of a containerized Shiny app.
 You can build the repo with:
 
 ```
-build -t shiny-docker .
+docker build -t shiny-docker .
 ```
 
 And run it with:
